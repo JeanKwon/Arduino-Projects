@@ -1,3 +1,7 @@
+/*
+ * Change the brightness of 3 LEDs based on orientation using IMU 
+ */
+
 #include <Wire.h>
 #include "IMU.h"
 #include "sensor_fusion.h"
