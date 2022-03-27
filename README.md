@@ -1,4 +1,6 @@
 # Arduino-Projects
+These projects are done through UCI IEEE Open Project Space 
+
 IMU Brightness Indicator : <br />
 * Brightness of 3 LEDs changed based on the orientation of the IMU 
 * Used I2C to communicate with IMU 
